@@ -1,11 +1,3 @@
-Got it 👍
-Below is a **clean, professional README.md rewritten fully under your name (Naitik)** with **no mention of Deepak anywhere**.
-I’ve also **removed all old image links** and replaced them with **placeholders**, so you can later add **your own screenshots** without confusion.
-
-You can **directly copy–paste this into your GitHub README.md**.
-
----
-
 # 🌴 AI Resume Analyzer 🌴
 
 <p align="center">
@@ -18,7 +10,7 @@ You can **directly copy–paste this into your GitHub README.md**.
 
 ---
 
-## 📌 About the Project
+About the Project
 
 **AI Resume Analyzer** is a web-based application that analyzes resumes using **Natural Language Processing (NLP)** techniques.
 It extracts important information such as skills, keywords, experience, and location, then provides:
@@ -32,7 +24,7 @@ This tool is useful for **students, job seekers, recruiters, and colleges** to u
 
 ---
 
-## 🎯 Scope of the Project
+Scope of the Project
 
 * Convert unstructured resume data into **structured tabular and CSV format**
 * Help users **improve their resume score** through feedback & recommendations
@@ -43,7 +35,7 @@ This tool is useful for **students, job seekers, recruiters, and colleges** to u
 
 ---
 
-## 🛠 Tech Stack
+Tech Stack
 
 ### Frontend
 
@@ -72,7 +64,7 @@ This tool is useful for **students, job seekers, recruiters, and colleges** to u
 
 ---
 
-## ✨ Features
+Features
 
 ### 👤 Client Side
 
@@ -109,7 +101,7 @@ This tool is useful for **students, job seekers, recruiters, and colleges** to u
 
 ---
 
-### ⭐ Feedback Module
+eedback Module
 
 * Feedback form submission
 * Rating system (1–5)
@@ -118,7 +110,7 @@ This tool is useful for **students, job seekers, recruiters, and colleges** to u
 
 ---
 
-## 📋 Requirements
+Requirements
 
 Make sure you have the following installed:
 
